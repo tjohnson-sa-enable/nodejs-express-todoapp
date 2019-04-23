@@ -164,6 +164,8 @@ In this step, we will be encrypting the Heroku api key file you just created.
 This will encrypt the file with your api key from Heroku. the unencrypted `deployment.env`, and `codeship.aes` key are both in the .gitignore file and will not be commited to the repository.
 
 
+
+
 ### Commit changes and push
 
 At this point, you have everything you need to test and deploy the project.
